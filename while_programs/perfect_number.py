@@ -1,4 +1,4 @@
-n=eval(input("Enter a number")) 
+n=eval(input("Enter a number ")) 
 s=0
 temp=n
 while n>0:
@@ -8,6 +8,6 @@ while n>0:
 print("Sum is ",s)
 
 if s==temp:
-    print("perfect number")
+    print("perfect number ")
 else:
-    print("Not perfect number")
+    print("Not perfect number ")

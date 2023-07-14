@@ -24,7 +24,7 @@ def floordiv(a,b):
 
 #program for remainder using functions
 def rem(a,b):
-    print("remainder is:",a//b)
+    print("remainder is:",a%b)
 
 #program for The Special variable __name__ using functions
 def f():
@@ -75,7 +75,7 @@ def iseven(n):
 
 #program for square of given number using functions
 def square(n):
-    print("square is:",n*n)
+    print("square is:",n*n)
 
 
 
